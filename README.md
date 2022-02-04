@@ -14,7 +14,7 @@
 * Tenho 20 anos, sou apaixonado por tecnologia e inovação, amo aprender coisas novas. </br>
 * Atualmente sou estagiário com desenvolvimento Frontend e mobile na Marlin
 * Faço faculdade de Sistemas de informação na Universidade Federal Fluminense
-* Estudo React, React-native e estou conhecendo o Flutter
+* Estudo React, React-native e estou me aventurando no Flutter também ^^
 </br></br>
 
 ## 💻 Tecnologias
