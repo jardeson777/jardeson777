@@ -1,5 +1,12 @@
 ## 🚀 Hello World, me chamo Jardeson
 
+  <a href="https://www.linkedin.com/in/jardeson-nogueira-06a884170/">
+    <img width="80" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jardeson777@gmail.com">
+    <img width="80" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 
 * Tenho 20 anos e sou apaixonado por tecnologia e inovação, amo aprender coisas novas. </br>
 * Atualmente sou estagiário com desenvolvimento Frontend e mobile na Marlin
@@ -25,4 +32,7 @@
 
 ## 😇 Status Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jardeson777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</br></br>
+
 
