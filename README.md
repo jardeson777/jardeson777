@@ -14,7 +14,7 @@
 * Tenho 21 anos, sou apaixonado por tecnologia e inovação, amo aprender coisas novas. </br>
 * Atualmente sou desenvolvedor Frontend e mobile na Marlin
 * Faço faculdade de Sistemas de informação na Universidade Federal Fluminense
-* Estudo React e React-native na maior parte do tempo, e Flutter quando sobra um tempinho ^^
+* Estudo React e React-native na maior parte do tempo, e me aventuro no backend com node e c# quando sobra tempo ^^
 </br></br>
 
 ## 💻 Tecnologias
