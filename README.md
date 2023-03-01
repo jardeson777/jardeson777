@@ -12,7 +12,6 @@
 
 
 * Tenho 21 anos, sou apaixonado por tecnologia e inovação, amo aprender coisas novas. </br>
-* Atualmente sou desenvolvedor Frontend e mobile na Marlin
 * Faço faculdade de Sistemas de informação na Universidade Federal Fluminense
 * Estudo de tudo um pouco no meu dia a dia, atualmente mais focado em melhorar meu código com o Clean code, Clean arch e DDD
 </br></br>
