@@ -11,9 +11,9 @@
 </br>
 
 
-* Tenho 21 anos, sou apaixonado por tecnologia e inovação, amo aprender coisas novas. </br>
-* Faço faculdade de Sistemas de informação na Universidade Federal Fluminense
-* Estudo de tudo um pouco no meu dia a dia, atualmente mais focado em melhorar meu código com o Clean code, Clean arch e DDD
+* Tenho 22 anos, sou apaixonado por tecnologia e inovação, amo aprender coisas novas. </br>
+* Faço faculdade de Sistemas de informação na Universidade Federal Fluminense, previsão de término para 2024
+* Atualmente estou estudando bastante sobre Padrões de projetos, DDD, Clean Arch e etc. Tudo visando um código mais fácil de ser lido e de manter.
 </br></br>
 
 ## 💻 Tecnologias
