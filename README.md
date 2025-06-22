@@ -15,9 +15,9 @@
 </br>
 
 
-* Tenho 22 anos, sou apaixonado por tecnologia e inovação, amo aprender coisas novas. </br>
-* Faço faculdade de Sistemas de informação na Universidade Federal Fluminense, previsão de término para 2024
-* Atualmente estou estudando bastante sobre Padrões de projetos, DDD, Clean Arch e etc. Tudo visando um código mais fácil de ser lido e de manter.
+* Tenho 24 anos, sou apaixonado por tecnologia e inovação, amo aprender coisas novas. </br>
+* Formado em Sistemas de Informação pela UFF
+* Atualmente fazendo MBA em Arquitetura de Sistemas - Full Cycle 
 </br></br>
 
 ## 💻 Skills
