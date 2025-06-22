@@ -41,24 +41,6 @@
 </div>
 </br></br>
 
-## 🧑🏻‍💻 Alguns projetos
-- Estou me organizando para criar mais projetos como portifólio. Até o momento os que mais gosto são esses:
-
-<a href="https://github.com/jardeson777/TodoList">
-  TodoList - React Native
-</a>
-</br>
-
-<a href="https://github.com/jardeson777/crud-finance">
-  Crud Finance - React Native
-</a>
-</br>
-
-<a href="https://github.com/jardeson777/kanban-next">
-  Kanban - Next JS
-</a>
-</br>
-
 <a href="https://github.com/jardeson777/electronics-store-api">
   electronics-store-api - Node Js
 </a>
